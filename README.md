@@ -1,5 +1,5 @@
 # Lisajous Pendulum Simulator
-![](oscillation.gif)
+![](osciallation.gif)
 
 ### Modelling The Pendulum
 ![](pendulum_schematic.png)
